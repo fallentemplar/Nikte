@@ -7,7 +7,7 @@ cover: /img/macetas/tronco_individual.jpg
 categories: ["Macetas"]
 tags: ["Medianas"]
 # showcase: true
-draft: true
+draft: false
 ---
 
 #### Esta es una maceta con forma de tronco

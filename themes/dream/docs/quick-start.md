@@ -83,7 +83,7 @@ author: Author Name
 cover: /img/cover.jpg
 categories: ["category1"]
 tags: ["tag1", "tag2"]
-draft: true
+draft: false
 ---
 
 Cut out summary from your post content here.
@@ -99,7 +99,7 @@ You only need to change `author`, `cover`, `categories` and `tags` fields, the o
 - cover: **Current post's image**, for _quick start_, now you can delete this line, because the theme has been placed some default images for posts.
 - categories and tags: if you haven’t thought about it, you can ignore them for now.
 
-At last, remove `draft: true` and run `hugo` to generate your site.
+At last, remove `draft: false` and run `hugo` to generate your site.
 
 If your want to have a preview in editing, run:
 

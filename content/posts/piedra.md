@@ -7,7 +7,7 @@ cover: /img/macetas/piedra_mediana_2.jpg
 categories: ["Macetas"]
 tags: ["medianas"]
 # showcase: true
-draft: true
+draft: false
 ---
 
 #### Esta es una maceta con forma de piedra

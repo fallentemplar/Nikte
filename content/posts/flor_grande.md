@@ -7,7 +7,7 @@ cover: /img/macetas/flor_grande_individual.jpg
 categories: ["Macetas"]
 tags: ["Grandes"]
 # showcase: true
-draft: true
+draft: false
 ---
 
 #### Esta es una maceta con forma de flor

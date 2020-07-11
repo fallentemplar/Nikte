@@ -7,7 +7,7 @@ cover: /img/macetas/cover.jpg
 categories: ["Macetas"]
 tags: ["tag1", "tag2"]
 # showcase: true
-draft: true
+draft: false
 ---
 
 #### Esta es una maceta con forma de <>

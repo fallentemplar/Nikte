@@ -2,7 +2,7 @@
 title: Index
 date: 2020-07-10T15:53:57-05:00
 lastmod: 2020-07-10T15:53:57-05:00
-draft: true
+draft: false
 headless: true
 ---
 

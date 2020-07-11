@@ -7,7 +7,7 @@ cover: /img/macetas/circulo_irregular_pequeño.jpg
 categories: ["Macetas"]
 tags: ["Pequeña"]
 # showcase: true
-draft: true
+draft: false
 ---
 
 #### Esta es una maceta con forma de círculo
