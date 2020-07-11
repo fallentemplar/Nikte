@@ -1,0 +1,18 @@
+baseURL = ""
+languageCode = "es-mx"
+defaultContentLanguage = "es"
+title = "Macetas Artesanales Nikte"
+theme = "dream"
+
+[params]
+    # background = "aqua"
+    backgroundImage = "/img/personal/back.jpg"
+    linkColor = "seagreen"
+
+
+    author = "Macetas Nikté"
+    description = "Bellas macetas artesanales"
+    avatar = "/img/personal/logo.jpg"
+    motto = "Catálogo de productos"
+
+    facebook = "Macetas-de-cemento-Nikté-101249301642817"
