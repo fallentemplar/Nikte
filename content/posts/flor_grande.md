@@ -1,5 +1,5 @@
 ---
-title: Maceta con forma de flor
+title: Flor
 date: 2020-07-10T17:00:29-05:00
 lastmod: 2020-07-10T17:00:29-05:00
 author: Macetas Nikté
@@ -10,15 +10,15 @@ tags: ["Grandes"]
 draft: false
 ---
 
-#### Esta es una maceta con forma de flor
+#### Hermosa maceta artesanal en forma de flor
 
 ## Precio
-- ### Maceta individual: $240
-- ### Maceta con planta : $300
+- ### Maceta individual: $280
+- ### Maceta con planta : Depende de la planta elegida
 
 ## Medidas
-- ### Ancho: cm
-- ### Largo: cm
-- ### Alto: cm
-
+- ### Ancho: 36cm
+- ### Largo: 36cm
+- ### Alto: 10cm
+### Nota: las medidas pueden variar ligeramente en cada producto.
 <!--more-->

@@ -1,5 +1,5 @@
 ---
-title: Maceta tronco
+title: Tronco
 date: 2020-07-10T15:58:44-05:00
 lastmod: 2020-07-10T15:58:44-05:00
 author: Macetas Nikté
@@ -10,16 +10,17 @@ tags: ["Medianas"]
 draft: false
 ---
 
-#### Esta es una maceta con forma de tronco
+#### Maceta artesanal de cemento.
 
 ## Precio
 - ### Maceta individual: $180
-- ### Maceta con 5 plantas (suculentas): $280
+- ### Maceta con 5 plantas (suculentas pequeñas): $280
 
 ## Medidas
-- ### Ancho: cm
-- ### Largo: cm
-- ### Alto: cm
+- ### Ancho: 8cm
+- ### Largo: 38cm
+- ### Alto: 7cm
+### Nota: las medidas pueden variar ligeramente en cada producto.
 <!--more-->
 
 

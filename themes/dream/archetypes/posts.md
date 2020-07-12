@@ -20,5 +20,5 @@ draft: false
 - #### Ancho: cm
 - #### Largo: cm
 - #### Alto: cm
-
+### Nota: las medidas pueden variar ligeramente en cada producto.
 <!--more-->
