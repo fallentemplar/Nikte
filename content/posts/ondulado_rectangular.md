@@ -1,11 +1,11 @@
 ---
-title: Ondulado rectangular
+title: Efecto ondulado rectangular
 date: 2020-07-11T22:16:33-05:00
 # lastmod: 2020-07-11T22:16:33-05:00
 author: Macetas Nikté
 cover: /img/macetas/ondulado_rectangular.jpg
 categories: ["Macetas"]
-tags: ["Medianas"]
+tags: ["Grandes"]
 # showcase: true
 draft: false
 ---

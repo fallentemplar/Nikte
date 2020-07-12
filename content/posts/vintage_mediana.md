@@ -20,6 +20,6 @@ draft: false
 - #### Ancho: 25cm
 - #### Largo: 25cm
 - #### Altura menor: 14cm
-- #### Altura menor: 20cm
+- #### Altura mayor: 20cm
 ### Nota: las medidas pueden variar ligeramente en cada producto.
 <!--more-->
