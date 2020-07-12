@@ -10,7 +10,7 @@ tags: ["Medianas"]
 draft: false
 ---
 
-#### Maceta artesanal de cemento.
+#### Maceta artesanal de cemento con forma de tronco.
 
 ## Precio
 - ### Maceta individual: $180
