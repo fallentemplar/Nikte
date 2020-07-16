@@ -20,7 +20,7 @@ draft: false
 
 
 ## Precio
-- ### Maceta individual: $140
+- ### Maceta individual: $155
 - ### Maceta con plantas: Depende de la planta elegida
   
 ### Medidas
