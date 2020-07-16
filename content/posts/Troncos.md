@@ -14,7 +14,7 @@ draft: false
 
 ## Precio
 - ### Maceta individual: $180
-- ### Maceta con 5 plantas (suculentas pequeñas): $280
+- ### Maceta con 5 plantas (suculentas o cactus pequeños): $280
 
 ## Medidas
 - ### Ancho: 8cm

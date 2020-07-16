@@ -5,7 +5,7 @@ date: 2020-07-11T23:21:19-05:00
 author: Macetas Nikté
 cover: /img/macetas/vintage_chica.jpg
 categories: ["Macetas"]
-tags: ["Medianas"]
+tags: ["Chicas"]
 # showcase: true
 draft: false
 ---

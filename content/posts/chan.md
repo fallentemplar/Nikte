@@ -3,9 +3,9 @@ title: Chan
 date: 2020-07-10T17:11:03-05:00
 lastmod: 2020-07-10T17:11:03-05:00
 author: Macetas Nikté
-cover: /img/macetas/circulo_irregular_pequeño.jpg
+cover: /img/macetas/chan.jpg
 categories: ["Macetas"]
-tags: ["Pequeñas"]
+tags: ["Minis"]
 # showcase: true
 draft: false
 ---

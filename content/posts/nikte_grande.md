@@ -1,9 +1,9 @@
 ---
-title: Flor
+title: Nikté
 date: 2020-07-10T17:00:29-05:00
 lastmod: 2020-07-10T17:00:29-05:00
 author: Macetas Nikté
-cover: /img/macetas/flor_grande_individual.jpg
+cover: /img/macetas/nikte_grande.jpg
 categories: ["Macetas"]
 tags: ["Grandes"]
 # showcase: true

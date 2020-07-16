@@ -5,7 +5,7 @@ date: 2020-07-10T17:08:08-05:00
 author: Macetas Nikté
 cover: /img/macetas/piedra_mediana_2.jpg
 categories: ["Macetas"]
-tags: ["Medianas"]
+tags: ["Chicas"]
 # showcase: true
 draft: false
 ---

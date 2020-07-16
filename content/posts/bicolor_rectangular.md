@@ -1,5 +1,5 @@
 ---
-title: Bicolor
+title: Bicolor rectangular
 date: 2020-07-11T21:13:36-05:00
 # lastmod: 2020-07-11T21:13:36-05:00
 author: Macetas Nikté
