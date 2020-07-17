@@ -13,7 +13,7 @@ draft: false
 #### Maceta de cemento cuadrada de 2 colores. Ideal para arreglos de suculentas.
 
 ###  Precio
-- #### Maceta individual: $130
+- #### Maceta individual: $140
 - #### Maceta con plantas: Depende de la planta elegida
 
 ### Medidas
