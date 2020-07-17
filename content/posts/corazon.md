@@ -10,7 +10,7 @@ tags: ["Medianas"]
 draft: false
 ---
 
-#### Maceta de cemento con forma de corazón.
+#### Maceta de cemento con forma de corazón
 #### Ideal para regalo o centro de mesa
 
 ###  Precio
