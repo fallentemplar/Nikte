@@ -12,9 +12,9 @@ draft: false
 
 #### Hermosa maceta artesanal en forma de flor
 
-## Precio
-- ### Maceta individual: $280
-- ### Maceta con planta : Depende de la planta elegida
+### Precio
+- #### Maceta individual: $280
+- #### Maceta con planta : Depende de la planta elegida
 
 ## Medidas
 - ### Ancho: 36cm

@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "es-mx"
 defaultContentLanguage = "es"
 title = "Macetas Artesanales Nikte"
@@ -16,3 +16,6 @@ theme = "dream"
     motto = "Catálogo de productos"
 
     facebook = "Macetas-de-cemento-Nikté-101249301642817"
+
+    # config
+    showSummaryCoverInPost = true
