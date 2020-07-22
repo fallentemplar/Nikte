@@ -17,8 +17,8 @@ draft: false
 - #### Maceta con plantas: Depende de la planta elegida
 
 ### Medidas
-- #### Ancho: cm
-- #### Largo: cm
-- #### Alto: cm
+- #### Ancho: 15cm
+- #### Largo: 15cm
+- #### Alto: 6.5cm
 
 <!--more-->
