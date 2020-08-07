@@ -3,7 +3,7 @@ title: Colorina
 date: 2020-07-17T13:34:12-05:00
 # lastmod: 2020-07-17T13:34:12-05:00
 author: Macetas Nikté
-cover: /img/macetas/colorina.jpeg
+cover: /img/macetas/colorina_2.jpeg
 categories: ["Macetas"]
 tags: ["Minis"]
 # showcase: true
@@ -16,7 +16,7 @@ draft: false
 
 ###  Precio
 - #### Maceta individual: $130
-- ### Maceta con plantas: Depende de la planta elegida y la cantidad.
+- #### Maceta con plantas: Depende de la planta elegida y la cantidad.
 
 ### Medidas
 - #### Ancho: 10cm
