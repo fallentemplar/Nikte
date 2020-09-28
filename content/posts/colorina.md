@@ -15,7 +15,7 @@ draft: false
 ##### Puede solicitarse con varias plantas pequeñas.
 
 ###  Precio
-- #### Maceta individual: $130
+- #### Maceta individual: $120
 - #### Maceta con plantas: Depende de la planta elegida y la cantidad.
 
 ### Medidas

@@ -13,7 +13,7 @@ draft: false
 #### Bonita maceta ovalada en colores pastel. 
 
 ###  Precio
-- #### Maceta individual: $150
+- #### Maceta individual: $140
 - #### Maceta con plantas: Depende de la planta elegida
 
 ### Medidas

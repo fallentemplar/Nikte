@@ -13,7 +13,7 @@ draft: false
 #### Pequeña maceta de cemento cuadrada con bordes redondeados.
 
 ###  Precio
-- #### Maceta individual: $140
+- #### Maceta individual: $130
 - #### Maceta con plantas: Depende de la planta elegida
 
 ### Medidas
