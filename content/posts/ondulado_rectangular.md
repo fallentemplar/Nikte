@@ -13,7 +13,7 @@ draft: false
 #### Maceta artesanal de tela y cemento en forma rectangular. 
 
 ###  Precio
-- #### Maceta individual: $200
+- #### Maceta individual: $150
 - #### Maceta con plantas: Depende de la planta elegida
 
 ### Medidas

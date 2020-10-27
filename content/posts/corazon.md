@@ -14,7 +14,7 @@ draft: false
 #### Ideal para regalo o centro de mesa
 
 ###  Precio
-- #### Maceta individual: $150
+- #### Maceta individual: $130
 - #### Maceta con plantas: Depende de la planta elegida
 
 ### Medidas

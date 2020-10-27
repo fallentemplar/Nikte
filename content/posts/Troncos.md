@@ -13,8 +13,8 @@ draft: false
 #### Maceta artesanal de cemento con forma de tronco.
 
 ### Precio
-- #### Maceta individual: $180
-- #### Maceta con 5 plantas (suculentas o cactus pequeños): $280
+- #### Maceta individual: $160
+- #### Maceta con 5 plantas (suculentas o cactus pequeños): $260
 
 ## Medidas
 - ### Ancho: 8cm

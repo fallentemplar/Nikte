@@ -7,13 +7,13 @@ cover: /img/macetas/chan.jpg
 categories: ["Macetas"]
 tags: ["Minis"]
 # showcase: true
-draft: false
+draft: true
 ---
 
 #### Maceta artesanal redonda de cemento y tela tamaño pequeño. Ideal para escritorio.
 
 ###  Precio
-- #### Maceta individual: $90
+- #### Maceta individual: $80
 - #### Maceta con plantas: Depende de la planta elegida
 
 ### Medidas

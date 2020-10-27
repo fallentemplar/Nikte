@@ -7,7 +7,7 @@ cover: /img/macetas/caritas_2.jpeg
 categories: ["Macetas"]
 tags: ["Minis"]
 # showcase: true
-draft: false
+draft: true
 ---
 
 #### Hermosa y tierna maceta de cemento decorada con una carita. Disponible en diferentes expresiones y colores.
