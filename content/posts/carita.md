@@ -3,7 +3,7 @@ title: Caritas
 date: 2020-07-17T13:23:23-05:00
 # lastmod: 2020-07-17T13:23:23-05:00
 author: Macetas Nikté
-cover: /img/macetas/caritas_3.jpeg
+cover: /img/macetas/caritas_4.jpeg
 categories: ["Macetas"]
 tags: ["Minis"]
 # showcase: true
