@@ -3,15 +3,15 @@ title: Vasito
 date: 2020-08-06T21:47:20-05:00
 # lastmod: 2020-08-06T21:47:20-05:00
 author: Macetas Nikté
-cover: /img/macetas/vasito.jpeg
+cover: /img/macetas/vasito2.jpeg
 categories: ["Macetas"]
-tags: ["Minis"]
+tags: ["Chicas"]
 # showcase: true
 draft: false
 ---
 
-#### Hermosa maceta de cemento pequeña decorada a mano.
-#### Ideal para darle un toque colorido a tu escritorio o buró. 
+#### Maceta de cemento bonita y resistente, decorada a mano con originales diseños.
+#### Ideal para darle un toque colorido a tu recámara, sala o escritorio.
 #### Excelente como centro de mesa en tus eventos o como regalo para alguien especial.
 
 ###  Precio
@@ -19,7 +19,6 @@ draft: false
 - #### Maceta con plantas: Depende de la planta elegida y la cantidad.
 
 ### Medidas
-- #### Ancho: 8cm
-- #### Largo: 8cm
-- #### Alto: 8.5cm
+- #### Diámetro: 8.5cm
+- #### Alto: 9cm
 <!--more-->

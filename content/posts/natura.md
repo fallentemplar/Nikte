@@ -5,7 +5,7 @@ date: 2020-11-23T20:06:48-06:00
 author: Macetas Nikté
 cover: /img/macetas/natura.jpeg
 categories: ["Macetas"]
-tags: ["chicas"]
+tags: ["Minis"]
 # showcase: true
 draft: false
 ---

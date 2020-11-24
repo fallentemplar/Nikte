@@ -1,6 +1,6 @@
 ---
 title: Vintage chica
-date: 2020-07-11T23:21:19-05:00
+date: 2020-07-17T15:49:01-05:00
 # lastmod: 2020-07-11T23:21:19-05:00
 author: Macetas Nikté
 cover: /img/macetas/vintage_chica.jpg
@@ -13,7 +13,7 @@ draft: false
 #### Maceta artesanal redonda de cemento y tela.
 
 ###  Precio
-- #### Maceta individual: $110
+- #### Maceta individual: $120
 - #### Maceta con plantas: Depende de la planta elegida
 
 ### Medidas

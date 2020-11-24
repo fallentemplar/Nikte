@@ -1,6 +1,6 @@
 ---
 title: Piedrita
-date: 2020-07-10T17:08:08-05:00
+date: 2020-11-23T17:08:08-05:00
 # lastmod: 2020-07-10T17:08:08-05:00
 author: Macetas Nikté
 cover: /img/macetas/piedra_mediana_2.jpg
@@ -11,8 +11,6 @@ draft: false
 ---
 
 #### Maceta artesanal bonita y resistente. Ideal para cáctus y suculentas.
-
-
 
 
 

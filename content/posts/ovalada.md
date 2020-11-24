@@ -1,6 +1,6 @@
 ---
 title: Ovalada
-date: 2020-07-17T15:49:01-05:00
+date: 2020-07-11T23:21:19-05:00
 # lastmod: 2020-07-17T15:49:01-05:00
 author: Macetas Nikté
 cover: /img/macetas/ovalada.jpeg

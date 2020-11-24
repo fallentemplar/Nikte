@@ -1,7 +1,6 @@
 ---
 title: Tronco
-date: 2020-07-10T15:58:44-05:00
-lastmod: 2020-07-10T15:58:44-05:00
+date: 2020-11-23T17:08:08-05:00
 author: Macetas Nikté
 cover: /img/macetas/tronco_individual.jpg
 categories: ["Macetas"]
